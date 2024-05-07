@@ -61,10 +61,4 @@ ResuMint is created with the NextJS web framework and follows its project struct
 4. Start a development server `npm run dev`
 5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see ResuMint live
 
-### Method 2: Docker
 
-1. Download the repo `git clone https://github.com/vishaljbind/ResuMint.git`
-2. Change the directory `cd ResuMint`
-3. Build the container `docker build -t ResuMint .`
-4. Start the container `docker run -p 3000:3000 ResuMint`
-5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see ResuMint live
