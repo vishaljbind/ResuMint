@@ -51,14 +51,5 @@ ResuMint is created with the NextJS web framework and follows its project struct
 | /resume-builder | /resume-builder/page.tsx | Resume builder page to build and download a resume PDF. The main components used are `ResumeForm` (`/components/ResumeForm`) and `Resume` (`/components/Resume`) |
 | /resume-parser | /resume-parser/page.tsx | Resume parser page to test a resume’s AST readability. The main library util used is `parseResumeFromPdf` (`/lib/parse-resume-from-pdf`) |
 
-## 💻 Local Development
-
-### Method 1: npm
-
-1. Download the repo `git clone https://github.com/vishaljbind/ResuMint.git`
-2. Change the directory `cd ResuMint`
-3. Install the dependency `npm install`
-4. Start a development server `npm run dev`
-5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see ResuMint live
 
 
